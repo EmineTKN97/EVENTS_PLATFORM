@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Events_Onion.Domain\Events_Onion.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
